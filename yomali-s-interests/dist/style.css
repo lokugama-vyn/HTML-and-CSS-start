@@ -1,0 +1,34 @@
+h1{
+  color:rgb(0,0,255);
+  font-size:2em;
+}
+.titlediv{
+  text-align:center;
+  background-color:rgb(245,66,158);
+  border-style:solid;
+}
+.paracontent{
+  font-size:1.4em;
+}
+#introimg{
+  float:right;
+}
+.listordered{
+  color:green;
+}
+table,th,td{
+  border-width:2px;
+  border-style:solid;
+}
+.impoheadings{
+  color:red;
+}
+.tablediv{
+  background-color:rgb(66, 236, 245);
+}
+.imagesprop{
+  text-align:center;
+  background-color:rgb(221, 245, 66);
+  margin:25px;
+  border-collapse: collapse;
+}
